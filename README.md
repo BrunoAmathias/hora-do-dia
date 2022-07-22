@@ -6,4 +6,4 @@
 
 * O intuito dele era criar algo que ficasse mundado o layout da página conforme o horário do dia
 
-* Com o JavaScript estabelecemos horas para o cenário mudar para noite, manhã e tarde 
+* Com o JavaScript estabelecemos horas para o cenário mudar alterando as fotos e cores semelhantes a noite, manhã e tarde 
