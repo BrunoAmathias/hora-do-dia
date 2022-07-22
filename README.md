@@ -1,6 +1,6 @@
 # hora do dia
 
-#desenvolvimento 
+# Desenvolvimento 
 
 * Esse projeto foi criado utilizando HTML, CSS e JavaScript
 
